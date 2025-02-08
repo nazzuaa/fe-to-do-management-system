@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import React from 'react';
+import React from 'react'; //Tambah ini kalo error saat  commit
 
 export default function Home() {
   return (
